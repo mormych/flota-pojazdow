@@ -2,9 +2,9 @@
 
 ## Opis projektu
 
-System Zarządzania Flotą Pojazdów jest aplikacją internetową stworzoną w języku PHP z wykorzystaniem frameworka Laravel. Projekt umożliwia zarządzanie flotą pojazdów, prowadzenie historii serwisowej oraz historii tankowań. Aplikacja wykorzystuje relacyjną bazę danych MySQL oraz architekturę MVC (Model-View-Controller).
+System Zarządzania Flotą Pojazdów to aplikacja internetowa stworzoną w języku PHP z wykorzystaniem frameworka Laravel. Projekt umożliwia zarządzanie flotą pojazdów, prowadzenie historii serwisowej oraz historii tankowań. Aplikacja wykorzystuje relacyjną bazę danych MySQL oraz architekturę MVC (Model-View-Controller).
 
-Projekt został wykonany jako projekt zaliczeniowy z przedmiotu **Programowanie w PHP z wykorzystaniem frameworka Laravel**.
+Projekt został wykonany jako projekt zaliczeniowy przedmiotu
 
 ---
 
