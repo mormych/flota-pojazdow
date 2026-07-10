@@ -419,4 +419,4 @@ Każdy pojazd może posiadać własną historię serwisową oraz historię tanko
 
 # Autor
 
-Michał Adamiak. Projekt wykonany jako projekt zaliczeniowy z przedmiotu **Programowanie w PHP z wykorzystaniem frameworka Laravel** .
+Michał Adamiak. Projekt wykonany jako projekt zaliczeniowy przedmiotu.
