@@ -271,7 +271,7 @@ Projekt został wykonany oraz przetestowany przy użyciu środowiska **XAMPP**.
 Pobrać projekt z repozytorium Git lub jako archiwum ZIP.
 
 ```bash
-git clone <adres_repozytorium>
+git clone https://github.com/mormych/flota-pojazdow
 ```
 
 ---
@@ -310,7 +310,7 @@ npm run build
 
 ## 6. Konfiguracja środowiska
 
-Skopiować plik:
+Skopiuj plik:
 
 ```
 .env.example
@@ -322,7 +322,7 @@ do pliku:
 .env
 ```
 
-Następnie skonfigurować połączenie z bazą danych:
+Następnie skonfiguruj połączenie z bazą danych:
 
 ```
 DB_CONNECTION=mysql
@@ -337,20 +337,20 @@ DB_PASSWORD=
 
 ## 7. Uruchomienie XAMPP
 
-Uruchomić **XAMPP Control Panel**.
+Uruchom **XAMPP Control Panel**.
 
-Włączyć usługi:
+Włącz usługi:
 
 - Apache
 - MySQL
 
-Następnie otworzyć:
+Następnie otwórz:
 
 ```
 http://localhost/phpmyadmin
 ```
 
-i utworzyć bazę danych:
+i utwórz bazę danych:
 
 ```
 flota_pojazdow
@@ -419,4 +419,4 @@ Każdy pojazd może posiadać własną historię serwisową oraz historię tanko
 
 # Autor
 
-Projekt wykonany jako projekt zaliczeniowy z przedmiotu **Programowanie w PHP z wykorzystaniem frameworka Laravel**.
+Michał Adamiak. Projekt wykonany jako projekt zaliczeniowy z przedmiotu **Programowanie w PHP z wykorzystaniem frameworka Laravel** .
