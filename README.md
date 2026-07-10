@@ -6,6 +6,8 @@ System Zarządzania Flotą Pojazdów to aplikacja internetowa stworzoną w języ
 
 Projekt został wykonany jako projekt zaliczeniowy przedmiotu
 
+![Widok aplikacji](image.png)
+
 ---
 
 # Zastosowane technologie
